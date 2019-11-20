@@ -1,6 +1,12 @@
 # contech cookie creation
 
 this is a web designed for cookie recepies, to help spread the knowledge of cookie cooking.
+#header
+contains a short descriptio of chocolate cookie
+#content
+contains the ingridient and preparation methodes
+#footer
+contan a simple history of cookie 
 
 ## Installation and usage
 does not need instolation since it readily web available. just type the link below for more info
